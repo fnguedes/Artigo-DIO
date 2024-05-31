@@ -6,7 +6,7 @@
 </p>
 
 # Artigo sobre as 5 top funções do React Native
- Desvende os segredos do React Native! Meu novo e-book, fruto de mentoria com o renomado Felipe Aguiar, é a chave para descomplicar o aprendizado para iniciantes. Explore os fundamentos de forma clara e prática, com uma seleção de recursos indispensáveis. Baixe agora e acelere sua jornada no desenvolvimento mobile! 
+ Descubra as 5 funções essenciais do React Native: map, filter, reduce, forEach, e find. Aprenda como essas ferramentas poderosas podem transformar seu desenvolvimento mobile, tornando seu código mais eficiente e fácil de manter. Confira nosso artigo completo!
 
  <a href="https://web.dio.me/articles/por-que-como-e-quando-usar-as-principais-funcoes-do-react-native?back=/articles" title="View PDF now"> 📕Clique aqui para ler</a>
 
